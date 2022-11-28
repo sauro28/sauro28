@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # Certification 
-Software Sicuro e Tutela della Privacy
+Software Sicuro e Tutela della Privacy<br/>
+Progettazione di Software Sicuro ed orientato alla privacy
 - Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari). 
 
