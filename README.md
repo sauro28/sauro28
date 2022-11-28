@@ -8,3 +8,10 @@
 sauro28/sauro28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+# Certification 
+Software Sicuro e Tutela della Privacy
+- Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari). 
+
