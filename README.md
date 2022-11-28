@@ -11,8 +11,12 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# Certification 
-Software Sicuro e Tutela della Privacy<br/>
+
+# Certificazioni/Corsi 
+
+### Software Sicuro e Tutela della Privacy<br/>
 Progettazione di Software Sicuro ed orientato alla privacy
 - Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari). 
+
+### Blockchain: una tecnologia innovativa e rivoluzionaria al servizio dei comportamenti etici, trasparenti e responsabili
 
