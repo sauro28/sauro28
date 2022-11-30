@@ -9,7 +9,7 @@ sauro28/sauro28 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-Per cambiare lignuaggio: 
+Per cambiare lignuaggio: [English](https://github.com/sauro28/sauro28/blob/main/README.md)
 
 
 # Certificazioni/Corsi 
