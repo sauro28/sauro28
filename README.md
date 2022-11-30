@@ -9,7 +9,7 @@ sauro28/sauro28 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-
+Read this in other languages: [Italian](https://github.com/sauro28/sauro28/blob/main/ReadMe.it.md)
 
 
 # Certificazioni/Corsi 
