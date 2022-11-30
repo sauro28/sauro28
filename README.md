@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 Read this in other languages: [Italian](https://github.com/sauro28/sauro28/blob/main/ReadMe.it.md)
 
 
-# Certificazioni/Corsi 
+# Certifications/Courses
 
-### Software Sicuro e Tutela della Privacy<br/>
-Progettazione di Software Sicuro ed orientato alla privacy
+### Secure Software and Privacy Protection<br/>
+Design of secure and privacy-oriented software
 - Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari). 
 
-### Blockchain: una tecnologia innovativa e rivoluzionaria al servizio dei comportamenti etici, trasparenti e responsabili
+### Blockchain: an innovative and revolutionary technology at the service of ethical, transparent and responsible behaviour
 
