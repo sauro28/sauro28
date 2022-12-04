@@ -20,3 +20,11 @@ Progettazione di Software Sicuro ed orientato alla privacy
 
 ### Blockchain: una tecnologia innovativa e rivoluzionaria al servizio dei comportamenti etici, trasparenti e responsabili
 
+
+# Software
+
+## Software BPMN
+
+### Bizagi Modeler (BPMN) - modellizzazione processi 
+[Bizagi](https://www.bizagi.com/)<br/>
+Software di mappatura dei processi aziendali gratuito, intuitivo e collaborativo utilizzato da milioni di persone in tutto il mondo. Bizagi Modeler consente alle organizzazioni di creare e documentare i processi aziendali in un repository cloud centrale per comprendere meglio ogni fase e identificare le opportunità di miglioramento dei processi per aumentare l'efficienza organizzativa.
