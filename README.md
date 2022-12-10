@@ -20,6 +20,13 @@ Design of secure and privacy-oriented software
 
 ### Blockchain: an innovative and revolutionary technology at the service of ethical, transparent and responsible behaviour
 
+# Business Analyst
+Analyze business scenarios to provide process designs that fulfill business requirements, mainly for documentation purposes. Not only do they lead and encourage group discussions when defining processes, but they also predict how their improvement initiatives will impact your business using Modeler Enterprise.
+
+- Get Started with Bizagi Modeler [Course Certification](https://github.com/sauro28/RepoDocumentation/blob/master/CV/Course_Certification_Get_Started_with_Bizagi_Modeler.pdf)
+
+
+
 
 # Software
 
@@ -28,3 +35,5 @@ Design of secure and privacy-oriented software
 ### Bizagi Modeler (BPMN) - process modeling 
 [Bizagi](https://www.bizagi.com/)<br/>
 Free, intuitive, and collaborative business process mapping software used by millions of people across the globe. Bizagi Modeler enables organizations to create and document business processes in a central cloud repository to gain a better understanding of each step and identify process improvement opportunities to increase organizational efficiency.
+
+
