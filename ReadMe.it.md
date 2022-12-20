@@ -24,6 +24,7 @@ Progettazione di Software Sicuro ed orientato alla privacy
 Analizza gli scenari aziendali per fornire progetti di processo che soddisfino i requisiti aziendali, principalmente a scopo di documentazione. Non solo guidano e incoraggiano discussioni di gruppo durante la definizione dei processi, ma prevedono anche come le loro iniziative di miglioramento avranno un impatto sulla tua attività utilizzando Modeler Enterprise.
 
 - Inizia con Bizagi Modeler [Certificazione del Corso](https://github.com/sauro28/RepoDocumentation/blob/master/CV/Course_Certification_Get_Started_with_Bizagi_Modeler.pdf)
+- Modellizzazione dei Processi [Certificazione del Corso](https://drive.google.com/file/d/1CGHMEOeNhaEzwkIvyWwwhX0xtrbOBDYH/view?usp=share_link)
 
 
 # Software
