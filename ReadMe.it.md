@@ -30,6 +30,7 @@ Analizza gli scenari aziendali per fornire progetti di processo che soddisfino i
 
 - Inizia con Bizagi Modeler [Certificazione del Corso](https://github.com/sauro28/RepoDocumentation/blob/master/CV/Course_Certification_Get_Started_with_Bizagi_Modeler.pdf)
 - Modellizzazione dei Processi [Certificazione del Corso](https://drive.google.com/file/d/1CGHMEOeNhaEzwkIvyWwwhX0xtrbOBDYH/view?usp=share_link)
+- Approfondimento Bizagi Modeler Enterprise [Certificazione del Corso](https://drive.google.com/file/d/1BqZhwWTnOfgLgd_KRNCf8ACy8ooeGWvJ/view?usp=share_link)
 
 
 # Software
