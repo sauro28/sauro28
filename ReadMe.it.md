@@ -18,6 +18,11 @@ Per cambiare lignuaggio: [English](https://github.com/sauro28/sauro28/blob/main/
 Progettazione di Software Sicuro ed orientato alla privacy
 - Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari). 
 
+
+### Software Cost Estimation
+La valutazione del costo del software è di grande importanza sia per gli Operatori Economici che per le Stazioni Appaltanti e spesso guida e determina importanti decisioni strategiche nei progetti di Trasformazione Digitale. [Scheda corso](https://drive.google.com/file/d/14ZaryLwY0UjmrzOR5wtK8H89PFWIZ-sT/view?usp=share_link)
+- Roberto Meli, laureato in Informatica nel 1984
+
 ### Blockchain: una tecnologia innovativa e rivoluzionaria al servizio dei comportamenti etici, trasparenti e responsabili
 
 ## Business Analyst
