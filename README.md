@@ -2,7 +2,7 @@
 - 👀 I’m interested in stupid things
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on nothings
-- 📫 How to reach me, ........... on the moon 
+- 📫 How to reach me, ...very simple........ on the moon 
 
 <!---
 sauro28/sauro28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
