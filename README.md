@@ -18,6 +18,10 @@ Read this in other languages: [Italian](https://github.com/sauro28/sauro28/blob/
 Design of secure and privacy-oriented software
 - Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari). 
 
+### Software Cost Estimation
+Software cost evaluation is of great importance for both Economic Operators and Contracting Stations and often guides and determines important strategic decisions in Digital Transformation projects. [Course card](https://drive.google.com/file/d/14ZaryLwY0UjmrzOR5wtK8H89PFWIZ-sT/view?usp=share_link)
+ - Roberto Meli, laureato in Informatica nel 1984
+
 ### Blockchain: an innovative and revolutionary technology at the service of ethical, transparent and responsible behaviour
 
 ## Business Analyst
