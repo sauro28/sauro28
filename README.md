@@ -30,7 +30,7 @@ Analyze business scenarios to provide process designs that fulfill business requ
 - Get Started with Bizagi Modeler [Course Certification](https://github.com/sauro28/RepoDocumentation/blob/master/CV/Course_Certification_Get_Started_with_Bizagi_Modeler.pdf)
 - Process Modeling [Course Certification](https://drive.google.com/file/d/1CGHMEOeNhaEzwkIvyWwwhX0xtrbOBDYH/view?usp=share_link)
 - Deep dive with Bizagi Modeler Enterprise [Course Certification](https://drive.google.com/file/d/1BqZhwWTnOfgLgd_KRNCf8ACy8ooeGWvJ/view?usp=share_link)
-
+<br>This course is designed to learn how Bizagi Modeler Enterprise enables the company to design its processes collaboratively and also how to increase corporate-wide governance by ensuring that everyone involved knows the processes and executes these in the same way.
 
 
 
