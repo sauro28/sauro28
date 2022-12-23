@@ -28,7 +28,7 @@ La valutazione del costo del software è di grande importanza sia per gli Operat
 ## Business Analyst
 Analizza gli scenari aziendali per fornire progetti di processo che soddisfino i requisiti aziendali, principalmente a scopo di documentazione. Non solo guidano e incoraggiano discussioni di gruppo durante la definizione dei processi, ma prevedono anche come le loro iniziative di miglioramento avranno un impatto sulla tua attività utilizzando Modeler Enterprise.
 
-- Inizia con Bizagi Modeler [Certificazione del Corso](https://github.com/sauro28/RepoDocumentation/blob/master/CV/Course_Certification_Get_Started_with_Bizagi_Modeler.pdf)
+- Inizia con Bizagi Modeler [Certificazione del Corso](https://drive.google.com/file/d/1lDGvv3sRbkNZsLmiXfWVo_015ZN-FtJz/view?usp=share_link)
 - Modellizzazione dei Processi [Certificazione del Corso](https://drive.google.com/file/d/1CGHMEOeNhaEzwkIvyWwwhX0xtrbOBDYH/view?usp=share_link)
 - Approfondimento Bizagi Modeler Enterprise [Certificazione del Corso](https://drive.google.com/file/d/1BqZhwWTnOfgLgd_KRNCf8ACy8ooeGWvJ/view?usp=share_link)
 <br>Questo corso è finalizzato ad apprendere come Bizagi Modeler Enterprise consente alla azienda di progettare i suoi processi in modo collaborativo e anche come aumentare la governance a livello aziendale assicurando che tutte le persone coinvolte conoscano i processi e li eseguano allo stesso modo.
