@@ -42,3 +42,8 @@ Analizza gli scenari aziendali per fornire progetti di processo che soddisfino i
 ### Bizagi Modeler (BPMN) - modellizzazione processi 
 [Bizagi](https://www.bizagi.com/)<br/>
 Software di mappatura dei processi aziendali gratuito, intuitivo e collaborativo utilizzato da milioni di persone in tutto il mondo. Bizagi Modeler consente alle organizzazioni di creare e documentare i processi aziendali in un repository cloud centrale per comprendere meglio ogni fase e identificare le opportunità di miglioramento dei processi per aumentare l'efficienza organizzativa.
+
+## Software Krea
+Immagini generative per tutti. Esplora milioni di immagini generate dall'intelligenza artificiale e crea raccolte di prompt.
+<br/>Sito ufficiale [Krea](https://www.krea.ai/)
+<br/>Open Promts [Git-hub](https://github.com/krea-ai/open-prompts)
