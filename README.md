@@ -53,6 +53,7 @@ Generative visuals for everyone. Explore millions of AI generated images and cre
 
 
 # Android project
+
 ## Safe to Run
 The purpose of this library is to provide a simple and extensible framework you can use in order to check your app is safe to run, and provide you with a way to verify data from intents or deep links is safe.
 <br/>[Safe to run (android library)](https://github.com/Safetorun/safe_to_run)
