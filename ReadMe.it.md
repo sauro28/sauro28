@@ -47,3 +47,9 @@ Software di mappatura dei processi aziendali gratuito, intuitivo e collaborativo
 Immagini generative per tutti. Esplora milioni di immagini generate dall'intelligenza artificiale e crea raccolte di prompt.
 <br/>Sito ufficiale [Krea](https://www.krea.ai/)
 <br/>Open Promts [Git-hub](https://github.com/krea-ai/open-prompts)
+
+# Android project
+## Safe to Run
+Lo scopo di questa libreria è fornire un framework semplice ed estensibile che puoi usare per verificare che la tua app sia sicura da eseguire e fornirti un modo per verificare che i dati da intent o deep link siano sicuri.
+<br/>[Safe to run (android library)](https://github.com/Safetorun/safe_to_run)
+
