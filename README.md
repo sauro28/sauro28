@@ -33,7 +33,22 @@ Analyze business scenarios to provide process designs that fulfill business requ
 <br>This course is designed to learn how Bizagi Modeler Enterprise enables the company to design its processes collaboratively and also how to increase corporate-wide governance by ensuring that everyone involved knows the processes and executes these in the same way.
 - Process Automation 1 [Course Certification](https://drive.google.com/file/d/1HmOjpiv6EkFfV_9BEBljAittbja-NhOZ/view?usp=share_link)
 
+## GIS
 
+### Geospatial Analysis for Urban Applications with GIS and a bit of Python
+Course that includes GIS, Earth Observation and Python scripting
+
+### Hyperspectral Thermal Image Unmixing course
+[Course Certification](https://drive.google.com/file/d/1dRyzTD7JTrRhSd8lUMDKHw4n7G9VDfAY/view?usp=share_link)
+
+###  Remote Sensing Applications using the Hellenic National Sentinel Data Mirror Site
+
+### Remote Sensing and Satellite Image Processing with the EOS Platform
+
+### Digital Image Processing with OpenCV in Python
+
+### Introduction to LaTeX
+[Course Certification](https://www.credential.net/1d5c575f-50d7-46cf-82b0-1ec361f70719#gs.rpb344)
 
 
 # Software
