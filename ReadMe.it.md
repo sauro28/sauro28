@@ -14,6 +14,10 @@ Per cambiare lignuaggio: [English](https://github.com/sauro28/sauro28/blob/main/
 
 # Certificazioni/Corsi 
 
+##
+Obiettivo formativo: l'azione prevede un'attività formativa di aggiornamento tecnico operativo rivolto ai RUP e al personale delle stazioni appaltanti e centrali di committenza.  Attraverso tale attività formativa, si cercherà di accompagnare il processo di evoluzione normativa in atto fornendo un aggiornamento professionale on time.
+[Certificazione](https://drive.google.com/file/d/1lzuM3LStJAYu9DuV5MSAGLoOWRTNSN0p/view?usp=share_link)
+
 ### Software Sicuro e Tutela della Privacy<br/>
 Progettazione di Software Sicuro ed orientato alla privacy
 - Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari). 
