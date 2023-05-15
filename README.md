@@ -14,6 +14,12 @@ Read this in other languages: [Italian](https://github.com/sauro28/sauro28/blob/
 
 # Certifications/Courses
 
+
+### National Training Plan for the professional updating of the Rup
+Intended for staff of contracting stations and central purchasing bodies pursuant to art. 7 paragraph 7bis of Law 120/2020 converting Legislative Decree no. 76/2020
+<br/>Training objective: the action envisages a training activity of operational technical updating aimed at the RUP and the personnel of the contracting stations and central purchasing bodies. Through this training activity, an attempt will be made to accompany the ongoing regulatory evolution process by providing on-time professional updating.
+<br/>[Course Certification](https://drive.google.com/file/d/1lzuM3LStJAYu9DuV5MSAGLoOWRTNSN0p/view?usp=share_link)
+
 ### Secure Software and Privacy Protection<br/>
 Design of secure and privacy-oriented software
 - Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari). 
