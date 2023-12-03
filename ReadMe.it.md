@@ -39,7 +39,7 @@ Analizza gli scenari aziendali per fornire progetti di processo che soddisfino i
 <br>Questo corso è finalizzato ad apprendere come Bizagi Modeler Enterprise consente alla azienda di progettare i suoi processi in modo collaborativo e anche come aumentare la governance a livello aziendale assicurando che tutte le persone coinvolte conoscano i processi e li eseguano allo stesso modo.
 - Process Automation 1 [Certificazione del Corso](https://drive.google.com/file/d/1HmOjpiv6EkFfV_9BEBljAittbja-NhOZ/view?usp=share_link)
 
-## Nuovi modelli smart e project innovativo
+### Nuovi modelli smart e project innovativo
 
 - Analisi di contesto e presentazione dell’attuale scenario del mercato del lavoro. Quali sono le dinamiche in atto nel mercato del lavoro? Quali le principali sfide per la gestione delle Risorse Umane nel settore pubblico?
 - People strategy: quali Strategie di Talent Acquisition ed Employer Branding per superare le attuali difficoltà di attrazione e retention dei talenti? Come aumentare l’engagement dei collaboratori?
@@ -47,12 +47,11 @@ Analizza gli scenari aziendali per fornire progetti di processo che soddisfino i
 - Nuove generazioni di lavoratori e nuovi bisogni: work-life balance, self engagement, employee experience
 - Strategie e tecniche per lo sviluppo del capitale umano: comprendere le «tipologie umane», ripensare modelli comunicativi, di leadership e di gestione del conflitto
 - Soft skills per la gestione efficace del cambiamento organizzativo
-[Scheda corso](https://drive.google.com/file/d/1Nb3GAtTQiylthAEQTx_Bn9oJKl6TPSuR/view?usp=drive_link)
-
 - L’importanza della psicologia differenziale nel mondo del lavoro. I 7 tipi umani come sistema della classificazione delle caratteristiche individuali delle Risorse Umane
 - Individuazione del «tipo umano» di appartenenza e riflessione sulle caratteristiche del proprio «tipo umano»
 - Presentazione di un metodo per individuare le risorse appropriate per specifiche attività/progetti (job profile)
-[Scheda corso](https://drive.google.com/file/d/1BAAZwmhVWeue6cm_NX6MPO-24j0V5AX0/view?usp=drive_link)
+<br>[Scheda corso](https://drive.google.com/file/d/1Nb3GAtTQiylthAEQTx_Bn9oJKl6TPSuR/view?usp=drive_link)
+<br>[Scheda corso](https://drive.google.com/file/d/1BAAZwmhVWeue6cm_NX6MPO-24j0V5AX0/view?usp=drive_link)
 
 
 ## GIS
