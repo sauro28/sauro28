@@ -30,6 +30,21 @@ Software cost evaluation is of great importance for both Economic Operators and 
 
 ### Blockchain: an innovative and revolutionary technology at the service of ethical, transparent and responsible behaviour
 
+### New smart models and innovative projects
+
+- Context analysis and presentation of the current labor market scenario. What are the dynamics taking place in the labor market? What are the main challenges for Human Resources management in the public sector?
+- People strategy: what Talent Acquisition and Employer Branding strategies are there to overcome the current difficulties in attracting and retaining talent? How to increase employee engagement?
+- Manage the new challenges awaiting those who coordinate Human Resources
+- New generations of workers and new needs: work-life balance, self engagement, employee experience
+- Strategies and techniques for the development of human capital: understanding "human typologies", rethinking communication, leadership and conflict management models
+- Soft skills for the effective management of organizational change
+[Course card](https://drive.google.com/file/d/1Nb3GAtTQiylthAEQTx_Bn9oJKl6TPSuR/view?usp=drive_link)
+
+- The importance of differential psychology in the world of work. The 7 human types as a system of classification of individual characteristics of Human Resources
+- Identification of the "human type" to which one belongs and reflection on the characteristics of one's own "human type"
+- Presentation of a method to identify the appropriate resources for specific activities/projects (job profile)
+[Course card](https://drive.google.com/file/d/1BAAZwmhVWeue6cm_NX6MPO-24j0V5AX0/view?usp=drive_link)
+
 ## Business Analyst
 Analyze business scenarios to provide process designs that fulfill business requirements, mainly for documentation purposes. Not only do they lead and encourage group discussions when defining processes, but they also predict how their improvement initiatives will impact your business using Modeler Enterprise.
 
