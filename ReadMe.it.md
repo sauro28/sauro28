@@ -39,6 +39,11 @@ Analizza gli scenari aziendali per fornire progetti di processo che soddisfino i
 <br>Questo corso è finalizzato ad apprendere come Bizagi Modeler Enterprise consente alla azienda di progettare i suoi processi in modo collaborativo e anche come aumentare la governance a livello aziendale assicurando che tutte le persone coinvolte conoscano i processi e li eseguano allo stesso modo.
 - Process Automation 1 [Certificazione del Corso](https://drive.google.com/file/d/1HmOjpiv6EkFfV_9BEBljAittbja-NhOZ/view?usp=share_link)
 
+## Nuovi modelli smart e project innovativo
+
+
+[Scheda corso](https://drive.google.com/file/d/1BAAZwmhVWeue6cm_NX6MPO-24j0V5AX0/view?usp=drive_link)
+[Scheda corso]([https://drive.google.com/file/d/14ZaryLwY0UjmrzOR5wtK8H89PFWIZ-sT/view?usp=share_link](https://drive.google.com/file/d/1Nb3GAtTQiylthAEQTx_Bn9oJKl6TPSuR/view?usp=drive_link))
 
 ## GIS
 
