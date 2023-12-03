@@ -41,9 +41,19 @@ Analizza gli scenari aziendali per fornire progetti di processo che soddisfino i
 
 ## Nuovi modelli smart e project innovativo
 
+- Analisi di contesto e presentazione dell’attuale scenario del mercato del lavoro. Quali sono le dinamiche in atto nel mercato del lavoro? Quali le principali sfide per la gestione delle Risorse Umane nel settore pubblico?
+- People strategy: quali Strategie di Talent Acquisition ed Employer Branding per superare le attuali difficoltà di attrazione e retention dei talenti? Come aumentare l’engagement dei collaboratori?
+- Gestire le nuove sfide che attendono coloro che coordinano Risorse Umane
+- Nuove generazioni di lavoratori e nuovi bisogni: work-life balance, self engagement, employee experience
+- Strategie e tecniche per lo sviluppo del capitale umano: comprendere le «tipologie umane», ripensare modelli comunicativi, di leadership e di gestione del conflitto
+- Soft skills per la gestione efficace del cambiamento organizzativo
+[Scheda corso](https://drive.google.com/file/d/1Nb3GAtTQiylthAEQTx_Bn9oJKl6TPSuR/view?usp=drive_link)
 
+- L’importanza della psicologia differenziale nel mondo del lavoro. I 7 tipi umani come sistema della classificazione delle caratteristiche individuali delle Risorse Umane
+- Individuazione del «tipo umano» di appartenenza e riflessione sulle caratteristiche del proprio «tipo umano»
+- Presentazione di un metodo per individuare le risorse appropriate per specifiche attività/progetti (job profile)
 [Scheda corso](https://drive.google.com/file/d/1BAAZwmhVWeue6cm_NX6MPO-24j0V5AX0/view?usp=drive_link)
-[Scheda corso]([https://drive.google.com/file/d/14ZaryLwY0UjmrzOR5wtK8H89PFWIZ-sT/view?usp=share_link](https://drive.google.com/file/d/1Nb3GAtTQiylthAEQTx_Bn9oJKl6TPSuR/view?usp=drive_link))
+
 
 ## GIS
 
