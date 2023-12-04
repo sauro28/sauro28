@@ -29,7 +29,7 @@ Software cost evaluation is of great importance for both Economic Operators and 
  - Roberto Meli, laureato in Informatica nel 1984
 
 ### Blockchain: an innovative and revolutionary technology at the service of ethical, transparent and responsible behaviour
-innovative and revolutionary technology at the service of ethical, transparent and responsible behaviour
+The course illustrates the technical characteristics of blockchain and offers an overview of its possible and countless applications, including in the financial and insurance fields.
 <br>
 [Course Certification](https://drive.google.com/file/d/1iFJ7A5UkIP7Q1uFz3vP_662du7_XTQ11/view?usp=drive_link)
 
