@@ -29,7 +29,7 @@ La valutazione del costo del software è di grande importanza sia per gli Operat
 - Roberto Meli, laureato in Informatica nel 1984
 
 ### Blockchain: una tecnologia innovativa e rivoluzionaria al servizio dei comportamenti etici, trasparenti e responsabili
-una tecnologia innovativa e rivoluzionaria al servizio dei comportamenti etici, trasparenti e responsabili
+Il corso illustra le caratteristiche tecniche della blockchain e offre uno sguardo sulle sue possibili e innumerevoli applicazioni, anche in ambito finanziario e assicurativo.
 <br>
 [Certificazione del Corso](https://drive.google.com/file/d/1iFJ7A5UkIP7Q1uFz3vP_662du7_XTQ11/view?usp=drive_link)
 
