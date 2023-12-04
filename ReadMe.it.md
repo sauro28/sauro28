@@ -30,6 +30,7 @@ La valutazione del costo del software è di grande importanza sia per gli Operat
 
 ### Blockchain: una tecnologia innovativa e rivoluzionaria al servizio dei comportamenti etici, trasparenti e responsabili
 una tecnologia innovativa e rivoluzionaria al servizio dei comportamenti etici, trasparenti e responsabili
+<br>
 [Certificazione del Corso](https://drive.google.com/file/d/1iFJ7A5UkIP7Q1uFz3vP_662du7_XTQ11/view?usp=drive_link)
 
 
