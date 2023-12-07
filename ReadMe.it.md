@@ -57,7 +57,12 @@ Analizza gli scenari aziendali per fornire progetti di processo che soddisfino i
 <br>[Scheda corso](https://drive.google.com/file/d/1Nb3GAtTQiylthAEQTx_Bn9oJKl6TPSuR/view?usp=drive_link)
 <br>[Scheda corso](https://drive.google.com/file/d/1BAAZwmhVWeue6cm_NX6MPO-24j0V5AX0/view?usp=drive_link)
 
+### Corso di formazione su Anticorruzione, Trasparenza e PTPC
+- Trasparenza amministrativa e accesso, obblighi e modalità di pubblicazione dei dati con riferimento agli appalti pubblici
+- Il Piano Triennale per la Prevenzione della Corruzione e la Trasparenza, il Modello Organizzativo 231, il codice etico ed il whistleblowing come presidi di prevenzione della corruzione
+<br>[Certificazione del Corso](https://drive.google.com/file/d/1UOw0oj6UXUb3FFxKnFCHNk7y7IwCICWV/view?usp=drive_link)
 
+- 
 ## GIS
 
 ### Geospatial Analysis for Urban Applications with GIS and a bit of Python
