@@ -62,7 +62,7 @@ Analizza gli scenari aziendali per fornire progetti di processo che soddisfino i
 - Il Piano Triennale per la Prevenzione della Corruzione e la Trasparenza, il Modello Organizzativo 231, il codice etico ed il whistleblowing come presidi di prevenzione della corruzione
 <br>[Certificazione del Corso](https://drive.google.com/file/d/1UOw0oj6UXUb3FFxKnFCHNk7y7IwCICWV/view?usp=drive_link)
 
-- 
+ 
 ## GIS
 
 ### Geospatial Analysis for Urban Applications with GIS and a bit of Python
