@@ -61,9 +61,9 @@ Analyze business scenarios to provide process designs that fulfill business requ
 
 ### Training course on Anti-Corruption, Transparency and PTPC
 
-- Trasparenza amministrativa e accesso, obblighi e modalità di pubblicazione dei dati con riferimento agli appalti pubblici
-- Il Piano Triennale per la Prevenzione della Corruzione e la Trasparenza, il Modello Organizzativo 231, il codice etico ed il whistleblowing come presidi di prevenzione della corruzione
-    Certificazione del Corso
+- Administrative transparency and access, obligations and methods of publishing data with reference to public procurement
+- The Three-Year Plan for the Prevention of Corruption and Transparency, the 231 Organizational Model, the code of ethics and whistleblowing as safeguards for preventing corruption
+<br>[Course Certification](https://drive.google.com/file/d/1UOw0oj6UXUb3FFxKnFCHNk7y7IwCICWV/view?usp=drive_link)
 
 
 ## GIS
