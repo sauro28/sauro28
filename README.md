@@ -59,6 +59,13 @@ Analyze business scenarios to provide process designs that fulfill business requ
 <br>This course is designed to learn how Bizagi Modeler Enterprise enables the company to design its processes collaboratively and also how to increase corporate-wide governance by ensuring that everyone involved knows the processes and executes these in the same way.
 - Process Automation 1 [Course Certification](https://drive.google.com/file/d/1HmOjpiv6EkFfV_9BEBljAittbja-NhOZ/view?usp=share_link)
 
+### Training course on Anti-Corruption, Transparency and PTPC
+
+- Trasparenza amministrativa e accesso, obblighi e modalità di pubblicazione dei dati con riferimento agli appalti pubblici
+- Il Piano Triennale per la Prevenzione della Corruzione e la Trasparenza, il Modello Organizzativo 231, il codice etico ed il whistleblowing come presidi di prevenzione della corruzione
+    Certificazione del Corso
+
+
 ## GIS
 
 ### Geospatial Analysis for Urban Applications with GIS and a bit of Python
