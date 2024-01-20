@@ -30,7 +30,7 @@ Progettazione di Software Sicuro ed orientato alla privacy
 - Il funzionamento operativo del Catalogo SSC
 - Le piattaforme tecnologiche per i SUAP e i SUE sul territorio
 - Testimonianza stato dell’arte in materia di sportelli SUE –SUAP in contesto in-house : Cristian Lusardi (Consorzio.IT)
-
+<br>[Schdea corso](https://drive.google.com/file/d/1_1yplPDCf2cyewidTqdIp-uYBIr0-if0/view?usp=drive_link)
 
 ### Software Cost Estimation
 La valutazione del costo del software è di grande importanza sia per gli Operatori Economici che per le Stazioni Appaltanti e spesso guida e determina importanti decisioni strategiche nei progetti di Trasformazione Digitale. [Scheda corso](https://drive.google.com/file/d/14ZaryLwY0UjmrzOR5wtK8H89PFWIZ-sT/view?usp=share_link)
