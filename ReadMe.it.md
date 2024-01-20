@@ -21,7 +21,15 @@ Destinato al personale delle stazioni appaltanti e centrali di committenza ai se
 
 ### Software Sicuro e Tutela della Privacy<br/>
 Progettazione di Software Sicuro ed orientato alla privacy
-- Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari). 
+- Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari).
+
+### Corso Assinter Accademy "Sportelli unici SUE e SUAP e interoperabilità"
+- ll progetto "Digitalizzazione delle procedure(SUAP&SUE)" e lo stato di avanzamento (sub-investimento PNRR2.2.3)
+- Il modello di interoperabilità (MODI), la Piattaforma Digitale Nazionale Dati (PDND) e le specifiche tecniche del Catalogo SSC
+- La modulistica standardizzata SUAP/SUE
+- Il funzionamento operativo del Catalogo SSC
+- Le piattaforme tecnologiche per i SUAP e i SUE sul territorio
+- Testimonianza stato dell’arte in materia di sportelli SUE –SUAP in contesto in-house : Cristian Lusardi (Consorzio.IT)
 
 
 ### Software Cost Estimation
