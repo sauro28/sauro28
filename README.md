@@ -22,7 +22,16 @@ Intended for staff of contracting stations and central purchasing bodies pursuan
 
 ### Secure Software and Privacy Protection<br/>
 Design of secure and privacy-oriented software
-- Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari). 
+- Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari).
+
+### Assinter Academy course "SUE and SUAP one-stop shops and interoperability"
+
+- The project "Digitization of procedures (SUAP&SUE)" and the state of progress (sub-investment PNRR2.2.3)
+- The interoperability model (MODI), the National Digital Data Platform (PDND) and the technical specifications of the SSC Catalog
+- The SUAP/SUE standardized forms
+- The operational functioning of the SSC Catalogue
+- The technological platforms for SUAPs and SUEs in the area
+- State of the art testimony regarding SUE – SUAP branches in an in-house context: Cristian Lusardi (Consorzio.IT)  
 
 ### Software Cost Estimation
 Software cost evaluation is of great importance for both Economic Operators and Contracting Stations and often guides and determines important strategic decisions in Digital Transformation projects. [Course card](https://drive.google.com/file/d/14ZaryLwY0UjmrzOR5wtK8H89PFWIZ-sT/view?usp=share_link)
