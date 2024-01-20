@@ -31,7 +31,8 @@ Design of secure and privacy-oriented software
 - The SUAP/SUE standardized forms
 - The operational functioning of the SSC Catalogue
 - The technological platforms for SUAPs and SUEs in the area
-- State of the art testimony regarding SUE – SUAP branches in an in-house context: Cristian Lusardi (Consorzio.IT)  
+- State of the art testimony regarding SUE – SUAP branches in an in-house context: Cristian Lusardi (Consorzio.IT)
+<br>[Course card](https://drive.google.com/file/d/1_1yplPDCf2cyewidTqdIp-uYBIr0-if0/view?usp=drive_link)
 
 ### Software Cost Estimation
 Software cost evaluation is of great importance for both Economic Operators and Contracting Stations and often guides and determines important strategic decisions in Digital Transformation projects. [Course card](https://drive.google.com/file/d/14ZaryLwY0UjmrzOR5wtK8H89PFWIZ-sT/view?usp=share_link)
