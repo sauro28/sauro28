@@ -107,3 +107,7 @@ Immagini generative per tutti. Esplora milioni di immagini generate dall'intelli
 Lo scopo di questa libreria è fornire un framework semplice ed estensibile che puoi usare per verificare che la tua app sia sicura da eseguire e fornirti un modo per verificare che i dati da intent o deep link siano sicuri.
 <br/>[Safe to run (android library)](https://github.com/Safetorun/safe_to_run)
 
+## AndroGoat
+AndroGoat è un'applicazione Android open source sviluppata appositamente per essere vulnerabile a diverse minacce alla sicurezza. È stata creata da Satish Patnayak, un ricercatore di sicurezza informatica, e può essere utilizzata da tester di sicurezza, sviluppatori e altri interessati a imparare a difendersi da queste minacce.
+<br/>[AndroGoat project site ](https://github.com/satishpatnayak/AndroGoat)
+
