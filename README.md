@@ -14,6 +14,8 @@ Read this in other languages: [Italian](https://github.com/sauro28/sauro28/blob/
 
 # Certifications/Courses
 
+### Privacy by Design e Data Protection Impact Assessment: from theory to practice [Webinar]
+The application of correct data protection, such as information security, is strongly based on the prevention and risk analysis of the interested parties. For this reason, the GDPR legislation has focused on two pillars of prevention: privacy by design and impact analysis. These elements are by no means aspects of mere formality, but rather constitute evaluations of full substance and essential in order to prepare practical evidence of implementation of accountability.
 
 ### National Training Plan for the professional updating of the Rup
 Intended for staff of contracting stations and central purchasing bodies pursuant to art. 7 paragraph 7bis of Law 120/2020 converting Legislative Decree no. 76/2020
