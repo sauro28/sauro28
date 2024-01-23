@@ -14,6 +14,10 @@ Per cambiare lignuaggio: [English](https://github.com/sauro28/sauro28/blob/main/
 
 # Certificazioni/Corsi 
 
+### Privacy by Design e Data Protection Impact Assessment: dalla teoria alla pratica [Webinar]
+L’applicazione della corretta protezione dei dati, come la sicurezza delle informazioni, è fortemente basata sulla prevenzione e l’analisi dei rischi degli interessati. Per questo motivo la normativa GDPR ha puntato su due pilasti della prevenzione: la privacy by design e l’analisi di impatto. Tali elementi non sono per nulla aspetti di sola formalità, ma anzi costituiscono valutazioni di piena sostanza ed imprescindibili al fine di predisporre evidenze pratiche di attuazione dell’accountability.
+
+
 ### Piano Nazionale di Formazione per l'aggiornamento professionale del Rup
 Destinato al personale delle stazioni appaltanti e centrali di committenza ai sensi dell'art. 7 comma 7bis della Legge 120/2020 di conversione del DL n.76/2020
 <br/>Obiettivo formativo: l'azione prevede un'attività formativa di aggiornamento tecnico operativo rivolto ai RUP e al personale delle stazioni appaltanti e centrali di committenza.  Attraverso tale attività formativa, si cercherà di accompagnare il processo di evoluzione normativa in atto fornendo un aggiornamento professionale on time.
