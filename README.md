@@ -17,10 +17,17 @@ Read this in other languages: [Italian](https://github.com/sauro28/sauro28/blob/
 ### Privacy by Design e Data Protection Impact Assessment: from theory to practice [Webinar]
 The application of correct data protection, such as information security, is strongly based on the prevention and risk analysis of the interested parties. For this reason, the GDPR legislation has focused on two pillars of prevention: privacy by design and impact analysis. These elements are by no means aspects of mere formality, but rather constitute evaluations of full substance and essential in order to prepare practical evidence of implementation of accountability.
 
+
 ### National Training Plan for the professional updating of the Rup
 Intended for staff of contracting stations and central purchasing bodies pursuant to art. 7 paragraph 7bis of Law 120/2020 converting Legislative Decree no. 76/2020
 <br/>Training objective: the action envisages a training activity of operational technical updating aimed at the RUP and the personnel of the contracting stations and central purchasing bodies. Through this training activity, an attempt will be made to accompany the ongoing regulatory evolution process by providing on-time professional updating.
 <br/>[Course Certification](https://drive.google.com/file/d/1lzuM3LStJAYu9DuV5MSAGLoOWRTNSN0p/view?usp=share_link)
+
+
+### THE COMPLETE DIGITALIZATION OF THE PROCUREMENT CYCLE IN THE NEW PUBLIC CONTRACTS CODE 
+The action involves a "basic" technical-operational update training activity aimed at the RUPs and the staff of the contracting and central purchasing authorities.
+<br/>The training proposal of the national training plan for the professionalization of the RUP - PNRR Academy is planned in line with the "professionalizing strategy", in implementation of the objectives set by the National Recovery and Resilience Plan - PNRR. The Plan contributes to the implementation of the qualification system of contracting authorities envisaged by the articles. 62 and 63 and annex II.4 of Legislative Decree 36/23.
+<br/>[Certificazione](https://drive.google.com/file/d/1u_Q643USzkEQKec6R0bVUA3VsRFQu8aM/view?usp=drive_link)
 
 ### Secure Software and Privacy Protection<br/>
 Design of secure and privacy-oriented software
