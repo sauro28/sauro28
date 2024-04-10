@@ -23,6 +23,11 @@ Destinato al personale delle stazioni appaltanti e centrali di committenza ai se
 <br/>Obiettivo formativo: l'azione prevede un'attività formativa di aggiornamento tecnico operativo rivolto ai RUP e al personale delle stazioni appaltanti e centrali di committenza.  Attraverso tale attività formativa, si cercherà di accompagnare il processo di evoluzione normativa in atto fornendo un aggiornamento professionale on time.
 <br/>[Certificazione](https://drive.google.com/file/d/1lzuM3LStJAYu9DuV5MSAGLoOWRTNSN0p/view?usp=share_link)
 
+### LA DIGITALIZZAZIONE INTEGRALE DEL CICLO DELL’APPALTO NEL NUOVO CODICE DEI CONTRATTI PUBBLICI 
+L'azione prevede un'attività formativa “base” di aggiornamento tecnico operativo rivolto ai RUP e al personale delle stazioni appaltanti e centrali di committenza.
+<br/>La proposta formativa del Piano nazionale di formazione per la professionalizzazione del RUP -PNRR Academy è programmata in coerenza con la “strategia professionalizzante”, in attuazione degli obiettivi previsti dal Piano Nazionale di Ripresa e Resilienza - PNRR. Il Piano contribuisce all’attuazione del sistema di qualificazione delle stazioni appaltanti previsti dagli art. 62 e 63 ed allegato II.4 del Dlgs 36/23.
+<br/>[Certificazione](https://drive.google.com/file/d/1u_Q643USzkEQKec6R0bVUA3VsRFQu8aM/view?usp=drive_link)
+
 ### Software Sicuro e Tutela della Privacy<br/>
 Progettazione di Software Sicuro ed orientato alla privacy
 - Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari).
