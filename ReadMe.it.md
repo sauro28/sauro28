@@ -30,7 +30,7 @@ L'azione prevede un'attività formativa “base” di aggiornamento tecnico oper
 
 ### Piano Nazionale di Formazione per l'aggiornamento professionale del Rup - 2023/2024 - Aggiornamento Specialistico
 Destinato al personale delle stazioni appaltanti e centrali di committenza ai sensi dell'art. 7 comma 7bis della Legge 120/2020 di conversione del DL n.76/2020
-<br/>Obiettivo formativo: l'azione prevede un'attività formativa di aggiornamento tecnico operativo rivolto ai RUP e al personale delle stazioni appaltanti e centrali di committenza.  Attraverso tale attività formativa, si cercherà di accompagnare il processo di evoluzione normativa in atto fornendo un aggiornamento professionale on time.
+<br/>Obiettivo formativo: l'azione prevede un'attività formativa di aggiornamento tecnico operativo rivolto ai RUP e al personale delle stazioni appaltanti e centrali di committenza.  Attraverso tale attività formativa, si cercherà di accompagnare il processo di evoluzione normativa in atto fornendo un aggiornamento professionale on time. Corso di Aggiornamento Specialistico per l'anno 2023/2024.
 <br/>[Certificazione](https://drive.google.com/file/d/1phSWXB3c4BrEKKpTFD5NdVEHfJikRMg1/view?usp=drive_link)
 
 ### Software Sicuro e Tutela della Privacy<br/>
