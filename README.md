@@ -29,6 +29,11 @@ The action involves a "basic" technical-operational update training activity aim
 <br/>The training proposal of the national training plan for the professionalization of the RUP - PNRR Academy is planned in line with the "professionalizing strategy", in implementation of the objectives set by the National Recovery and Resilience Plan - PNRR. The Plan contributes to the implementation of the qualification system of contracting authorities envisaged by the articles. 62 and 63 and annex II.4 of Legislative Decree 36/23.
 <br/>[Certificazione](https://drive.google.com/file/d/1u_Q643USzkEQKec6R0bVUA3VsRFQu8aM/view?usp=drive_link)
 
+### National Training Plan for the professional updating of the Rup - 2023/2024 - Update
+Intended for staff of contracting stations and central purchasing bodies pursuant to art. 7 paragraph 7bis of Law 120/2020 converting Legislative Decree no. 76/2020
+<br/>Training objective: the action envisages a training activity of operational technical updating aimed at the RUP and the personnel of the contracting stations and central purchasing bodies. Through this training activity, an attempt will be made to accompany the ongoing regulatory evolution process by providing on-time professional updating.
+<br/>[Course Certification](https://drive.google.com/file/d/1phSWXB3c4BrEKKpTFD5NdVEHfJikRMg1/view?usp=drive_link)
+
 ### Secure Software and Privacy Protection<br/>
 Design of secure and privacy-oriented software
 - Dott.ssa Vita Santa Barletta (Dipartimento di Informatica Bari).
