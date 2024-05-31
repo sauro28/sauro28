@@ -14,6 +14,17 @@ Per cambiare lignuaggio: [English](https://github.com/sauro28/sauro28/blob/main/
 
 # Certificazioni/Corsi 
 
+
+### PugliaAccessibile - Corso Accessibilità
+- Approfondimento delle regole e delle linee guida normative
+- Programmazione strategica per favorire l'accessibilità fisica e ICT
+- Modalità e tecniche per la realizzazione di documenti amministrativi
+- Web writing e multimedia accessibili
+- Strumenti per il monitoraggio e la valutazione dell'accessibilità
+- Realizzazione di documenti e atti amministrativi accessibili
+- Aggiornamento dei contenuti web per renderli accessibili a tutti.
+<br/>[Certificazione](https://drive.google.com/file/d/1dCWYnntAjip89hnEaAtIpXP7TuOZUJSm/view?usp=sharing)
+
 ### Privacy by Design e Data Protection Impact Assessment: dalla teoria alla pratica [Webinar]
 L’applicazione della corretta protezione dei dati, come la sicurezza delle informazioni, è fortemente basata sulla prevenzione e l’analisi dei rischi degli interessati. Per questo motivo la normativa GDPR ha puntato su due pilasti della prevenzione: la privacy by design e l’analisi di impatto. Tali elementi non sono per nulla aspetti di sola formalità, ma anzi costituiscono valutazioni di piena sostanza ed imprescindibili al fine di predisporre evidenze pratiche di attuazione dell’accountability.
 
