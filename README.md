@@ -14,6 +14,16 @@ Read this in other languages: [Italian](https://github.com/sauro28/sauro28/blob/
 
 # Certifications/Courses
 
+### PugliaAccessibile - Accessibility Course 
+- In-depth analysis of the rules and regulatory guidelines
+- Strategic programming to promote physical and ICT accessibility
+- Methods and techniques for the creation of administrative documents
+- Accessible web writing and multimedia
+- Tools for monitoring and evaluating accessibility
+- Creation of accessible documents and administrative documents
+- Updating web content to make it accessible to all.
+<br/>[Course Certification](https://drive.google.com/file/d/1dCWYnntAjip89hnEaAtIpXP7TuOZUJSm/view?usp=sharing)
+
 ### Privacy by Design e Data Protection Impact Assessment: from theory to practice [Webinar]
 The application of correct data protection, such as information security, is strongly based on the prevention and risk analysis of the interested parties. For this reason, the GDPR legislation has focused on two pillars of prevention: privacy by design and impact analysis. These elements are by no means aspects of mere formality, but rather constitute evaluations of full substance and essential in order to prepare practical evidence of implementation of accountability.
 
