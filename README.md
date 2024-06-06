@@ -14,6 +14,10 @@ Read this in other languages: [Italian](https://github.com/sauro28/sauro28/blob/
 
 # Certifications/Courses
 
+### Introducing Generative AI and Machine Learning in ArcGIS Survey123
+Overview ArcGIS Survey123 and AI
+<br/>[Course Certification](https://drive.google.com/file/d/1dRyzTD7JTrRhSd8lUMDKHw4n7G9VDfAY/view?usp=drive_link)
+
 ### PugliaAccessibile - Accessibility Course 
 - In-depth analysis of the rules and regulatory guidelines
 - Strategic programming to promote physical and ICT accessibility
