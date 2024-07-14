@@ -103,6 +103,15 @@ Analyze business scenarios to provide process designs that fulfill business requ
 - The Three-Year Plan for the Prevention of Corruption and Transparency, the 231 Organizational Model, the code of ethics and whistleblowing as safeguards for preventing corruption
 <br>[Course Certification](https://drive.google.com/file/d/1UOw0oj6UXUb3FFxKnFCHNk7y7IwCICWV/view?usp=drive_link)
 
+## CAMUNDA
+Camunda provides a workflow and decision automation platform offering process orchestration capabilities to organizations of any size. Camunda Platform comes from years of research and development including open source initiatives.
+
+### Camunda Platform 7.16 Webinar Recap (2021)
+Get the bonus insight and answers we didn't have time to share during our recent Camunda Platform 7.16 release webinar. 
+
+### Camunda Platform 8 Webinar Recap (2022)
+Check out these answers to the questions we didn't get to answer during our recent Camunda Platform 8 Release Webinar.
+
 
 ## GIS
 
