@@ -99,6 +99,14 @@ Analizza gli scenari aziendali per fornire progetti di processo che soddisfino i
 - Il Piano Triennale per la Prevenzione della Corruzione e la Trasparenza, il Modello Organizzativo 231, il codice etico ed il whistleblowing come presidi di prevenzione della corruzione
 <br>[Certificazione del Corso](https://drive.google.com/file/d/1UOw0oj6UXUb3FFxKnFCHNk7y7IwCICWV/view?usp=drive_link)
 
+## CAMUNDA
+Camunda fornisce una piattaforma di automazione del flusso di lavoro e delle decisioni che offre funzionalità di orchestrazione dei processi a organizzazioni di qualsiasi dimensione. La piattaforma Camunda nasce da anni di ricerca e sviluppo, comprese le iniziative open source.
+
+### Camunda Platform 7.16 Webinar Recap (2021)
+Webinar con approfondimenti e risposte bonus che non sono state condivise durante il recente webinar sulla versione Camunda Platform 7.16.
+
+### Camunda Platform 8 Webinar Recap (2022)
+Webinar con approfondimenti e risposte bonus che non sono state condivise durante il recente webinar sulla versione Camunda Platform 8.
  
 ## GIS
 
