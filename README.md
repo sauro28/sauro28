@@ -14,6 +14,10 @@ Read this in other languages: [Italian](https://github.com/sauro28/sauro28/blob/
 
 # Certifications/Courses
 
+### Email & Social Engineering Basic Level
+InnovaPuglia - Email & Social Engineering Basic Level 
+<br/>[Course Certification](https://drive.google.com/file/d/1BqZhwWTnOfgLgd_KRNCf8ACy8ooeGWvJ/view?usp=drive_link)
+
 ### Introducing Generative AI and Machine Learning in ArcGIS Survey123
 Overview ArcGIS Survey123 and AI
 <br/>[Course Certification](https://drive.google.com/file/d/1dRyzTD7JTrRhSd8lUMDKHw4n7G9VDfAY/view?usp=drive_link)
