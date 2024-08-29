@@ -15,6 +15,10 @@ Per cambiare lignuaggio: [English](https://github.com/sauro28/sauro28/blob/main/
 # Certificazioni/Corsi 
 
 
+### Email & Social Engineering Basic Level
+InnovaPuglia - Email & Social Engineering Basic Level 
+<br/>[Certificazione](https://drive.google.com/file/d/16jqjCJdBL23Amdq-lsQiIZd18wKTDTPA/view?usp=drive_link)
+
 ### Presentazione dell'intelligenza artificiale generativa e del machine learning in ArcGIS Survey123
 Panoramica ArcGIS Survey123 AI
 <br/>[Certificazione](https://drive.google.com/file/d/1dRyzTD7JTrRhSd8lUMDKHw4n7G9VDfAY/view?usp=drive_link)
