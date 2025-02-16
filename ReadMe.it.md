@@ -129,6 +129,11 @@ Course that includes GIS, Earth Observation and Python scripting
 ### Introduction to LaTeX
 [Course Certification](https://www.credential.net/1d5c575f-50d7-46cf-82b0-1ec361f70719#gs.rpb344)
 
+
+### Anymapper
+anymapper è una raccolta di componenti Svelte UI per la creazione di interfacce utente zoomabili. Può essere utilizzato per fornire un'interfaccia utente familiare, simile a Google Maps, per la navigazione di grafiche vettoriali SVG, come diagrammi schematici, visualizzazioni astratte, rappresentazioni di giardini, centri commerciali, edifici a più piani, ecc.
+[Anymapper](https://github.com/webvis/anymapper)<br/>
+
 # Software
 
 ## Software BPMN
