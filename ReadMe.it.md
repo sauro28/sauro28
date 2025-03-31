@@ -157,3 +157,13 @@ Lo scopo di questa libreria è fornire un framework semplice ed estensibile che 
 AndroGoat è un'applicazione Android open source sviluppata appositamente per essere vulnerabile a diverse minacce alla sicurezza. È stata creata da Satish Patnayak, un ricercatore di sicurezza informatica, e può essere utilizzata da tester di sicurezza, sviluppatori e altri interessati a imparare a difendersi da queste minacce.
 <br/>[AndroGoat project site ](https://github.com/satishpatnayak/AndroGoat)
 
+## FlyWay
+
+Flyway è uno strumento open source per la migrazione di database. 
+
+Flyway si basa su sette comandi di base: Migrate, Clean, Info, Validate, Undo, Baseline e Repair.
+Le migrazioni possono essere scritte in SQL (è supportata la sintassi specifica del database come PL/SQL, T-SQL, ecc.) o Java (per trasformazioni di dati avanzate o per gestire LOB).
+Ha un client a riga di comando, un'API Java (funziona anche su Android) per la migrazione del database all'avvio dell'applicazione, un plugin Maven e un plugin Gradle.
+I plugin sono disponibili per Spring Boot, Dropwizard, Grails, Play, SBT, Ant, Griffon, Grunt, Ninja e altro. I database supportati includono Oracle, SQL Server, DB2, MySQL (inclusi Amazon RDS, Aurora MySQL, MariaDB), Percona XtraDB, PostgreSQL (inclusi Amazon RDS e Heroku), Aurora PostgreSQL, YugabyteDB, CockroachDB, Redshift, Informix, H2, Hsql, Derby, SQLite, SAP HANA, Sybase ASE, Phoenix e Firebird.
+
+<br/>[Github Flyway project site ](https://github.com/flyway/flyway)
