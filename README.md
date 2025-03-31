@@ -163,3 +163,15 @@ The purpose of this library is to provide a simple and extensible framework you 
 ## AndroGoat
 AndroGoat is an open source Android application specially developed to be vulnerable to several security threats. It was created by Satish Patnayak, a cybersecurity researcher, and can be used by security testers, developers, and others interested in learning how to defend against these threats.
 <br/>[AndroGoat project site ](https://github.com/satishpatnayak/AndroGoat)
+
+## Flyway
+
+Flyway is an open-source database-migration tool. 
+
+Flyway is based around seven basic commands: Migrate, Clean, Info, Validate, Undo, Baseline, and Repair.
+Migrations can be written in SQL (database-specific syntax such as PL/SQL, T-SQL, etc is supported) or Java (for advanced data transformations or dealing with LOBs).
+It has a command-line client, a Java API (also works on Android) for migrating the database on application startup, a Maven plugin, and a Gradle plugin.
+Plugins are available for Spring Boot,Dropwizard, Grails, Play, SBT, Ant, Griffon, Grunt, Ninja, and more.
+Supported databases include Oracle, SQL Server, DB2, MySQL (including Amazon RDS, Aurora MySQL, MariaDB), Percona XtraDB, PostgreSQL (including Amazon RDS and Heroku), Aurora PostgreSQL, YugabyteDB, CockroachDB, Redshift, Informix, H2, Hsql, Derby, SQLite, SAP HANA, Sybase ASE, Phoenix, and Firebird.
+
+<br/>[Github flyway project site](https://github.com/flyway/flyway)
