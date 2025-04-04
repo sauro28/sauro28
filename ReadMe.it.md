@@ -136,6 +136,10 @@ anymapper è una raccolta di componenti Svelte UI per la creazione di interfacce
 
 # Software
 
+### keycloak
+Keycloak è un prodotto software open source che consente il single sign-on, identity and access management mirata ad applicazioni e servizi moderni. Keycloak supporta vari protocolli come OpenID, OAuth versione 2.0 e SAML e fornisce funzionalità come gestione degli utenti, autenticazione a due fattori, gestione di permessi e ruoli, creazione di servizi token, ecc. È possibile integrare Keycloak con altre tecnologie, come framework front-end come React o Angular, nonché soluzioni di containerizzazione come Docker.
+<br/>[Keycloak](https://www.keycloak.org/)
+
 ## Software BPMN
 
 ### Bizagi Modeler (BPMN) - modellizzazione processi 
