@@ -193,4 +193,4 @@ Key skills developed include:
 - Accessibility and Flexibility: Managing remote work by accessing Microsoft 365 Copilot from any device, ensuring continuity in conversations and activities regardless of physical location.
 - Continuous Learning: Exploring and using new Microsoft 365 Copilot features to streamline work processes and promote professional growth.
 - Agent Development: Designing and developing various agents using Copilot Studio, a tool that allows you to create agents in a simple and intuitive way, to further automate processes and support the team in their daily activities.
-- 
+ 
