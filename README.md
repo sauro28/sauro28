@@ -183,3 +183,14 @@ Plugins are available for Spring Boot,Dropwizard, Grails, Play, SBT, Ant, Griffo
 Supported databases include Oracle, SQL Server, DB2, MySQL (including Amazon RDS, Aurora MySQL, MariaDB), Percona XtraDB, PostgreSQL (including Amazon RDS and Heroku), Aurora PostgreSQL, YugabyteDB, CockroachDB, Redshift, Informix, H2, Hsql, Derby, SQLite, SAP HANA, Sybase ASE, Phoenix, and Firebird.
 
 <br/>[Github flyway project site](https://github.com/flyway/flyway)
+
+# Artificial Intelligence
+
+## Microsoft 365 Copilot
+Key skills developed include:
+- Process Automation: Using Microsoft 365 Copilot to automate repetitive tasks, streamlining workflow and allowing greater focus on strategic activities.
+- Effective Collaboration: Implementing integrated chat features to facilitate communication and sharing ideas, documents and updates in real time, improving team cohesion.
+- Accessibility and Flexibility: Managing remote work by accessing Microsoft 365 Copilot from any device, ensuring continuity in conversations and activities regardless of physical location.
+- Continuous Learning: Exploring and using new Microsoft 365 Copilot features to streamline work processes and promote professional growth.
+- Agent Development: Designing and developing various agents using Copilot Studio, a tool that allows you to create agents in a simple and intuitive way, to further automate processes and support the team in their daily activities.
+- 
