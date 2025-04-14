@@ -171,5 +171,14 @@ Flyway si basa su sette comandi di base: Migrate, Clean, Info, Validate, Undo, B
 Le migrazioni possono essere scritte in SQL (è supportata la sintassi specifica del database come PL/SQL, T-SQL, ecc.) o Java (per trasformazioni di dati avanzate o per gestire LOB).
 Ha un client a riga di comando, un'API Java (funziona anche su Android) per la migrazione del database all'avvio dell'applicazione, un plugin Maven e un plugin Gradle.
 I plugin sono disponibili per Spring Boot, Dropwizard, Grails, Play, SBT, Ant, Griffon, Grunt, Ninja e altro. I database supportati includono Oracle, SQL Server, DB2, MySQL (inclusi Amazon RDS, Aurora MySQL, MariaDB), Percona XtraDB, PostgreSQL (inclusi Amazon RDS e Heroku), Aurora PostgreSQL, YugabyteDB, CockroachDB, Redshift, Informix, H2, Hsql, Derby, SQLite, SAP HANA, Sybase ASE, Phoenix e Firebird.
-
 <br/>[Github Flyway project site ](https://github.com/flyway/flyway)
+
+# Inteligenza Artificiale
+
+## Microsoft 365 Copilot
+Le principali competenze sviluppate includono:
+- Automazione dei Processi: Utilizzo di Microsoft 365 Copilot per automatizzare compiti ripetitivi, ottimizzando il flusso di lavoro e permettendo una maggiore concentrazione su attività strategiche.
+- Collaborazione Efficace: Implementazione di funzionalità di chat integrate per facilitare la comunicazione e la condivisione di idee, documenti e aggiornamenti in tempo reale, migliorando la coesione del team.
+- Accessibilità e Flessibilità: Gestione del lavoro remoto attraverso l'accesso a Microsoft 365 Copilot da qualsiasi dispositivo, garantendo continuità nelle conversazioni e nelle attività indipendentemente dalla posizione fisica.
+- Apprendimento Continuo: Esplorazione e utilizzo di nuove funzionalità di Microsoft 365 Copilot per ottimizzare i processi di lavoro e promuovere la crescita professionale.
+- Sviluppo di Agent: Progettazione e sviluppo di vari agenti utilizzando Copilot Studio, uno strumento che permette di creare agenti in modo semplice e intuitivo, per automatizzare ulteriormente i processi e supportare il team nelle loro attività quotidiane.
