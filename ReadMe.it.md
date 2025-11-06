@@ -15,6 +15,12 @@ Per cambiare lignuaggio: [English](https://github.com/sauro28/sauro28/blob/main/
 # Certificazioni/Corsi 
 
 
+## AI - Artificial Intelligence
+
+### workshop territoriali del Centro di Competenza regionale sull’Intelligenza Artificiale nella Pubblica Amministrazione
+workshop territoriali del Centro di Competenza regionale sull’Intelligenza Artificiale nella Pubblica Amministrazione
+<br/>[Certificazione](https://drive.google.com/file/d/1YxXfDjluGM7kM1CIQqjkUNpdQ37PWnsr/view?usp=drive_link)
+
 ### Email & Social Engineering Basic Level
 InnovaPuglia - Email & Social Engineering Basic Level 
 <br/>[Certificazione](https://drive.google.com/file/d/16jqjCJdBL23Amdq-lsQiIZd18wKTDTPA/view?usp=drive_link)
