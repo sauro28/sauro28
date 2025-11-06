@@ -14,6 +14,13 @@ Read this in other languages: [Italian](https://github.com/sauro28/sauro28/blob/
 
 # Certifications/Courses
 
+## AI - Artificial Intelligence
+
+### Regional workshops of the Regional Competence Center on Artificial Intelligence in Public Administration
+Regional workshops of the Regional Competence Center on Artificial Intelligence in Public Administration
+<br/>[Course Certification](https://drive.google.com/file/d/1YxXfDjluGM7kM1CIQqjkUNpdQ37PWnsr/view?usp=drive_link)
+
+
 ### Email & Social Engineering Basic Level
 InnovaPuglia - Email & Social Engineering Basic Level 
 <br/>[Course Certification](https://drive.google.com/file/d/16jqjCJdBL23Amdq-lsQiIZd18wKTDTPA/view?usp=drive_link)
